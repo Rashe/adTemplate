@@ -1,3 +1,3 @@
 adTemplate
 ==========
-Some templates for Ad website
+Some templates for Ad website..
